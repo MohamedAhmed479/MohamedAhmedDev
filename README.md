@@ -10,7 +10,6 @@
 - 🎯 Passionate about **building scalable web applications** using Laravel & PHP.  
 - 🏗️ Working on **Multi-Restaurant Food Order System** & other API-based projects.  
 - 📚 Currently **learning** Software Engineering & DSA to enhance my problem-solving skills.  
-- 🎥 Sharing knowledge on my YouTube channel: **[Back Depth](https://www.youtube.com/@backdepth)**.  
 
 ---
 
