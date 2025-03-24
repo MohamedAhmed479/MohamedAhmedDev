@@ -39,7 +39,6 @@
 ✅ Improve **Database Design & System Architecture**  
 ✅ Master **Testing in Laravel 11**  
 ✅ Enhance **DSA & Problem Solving**  
-✅ Build & launch my **educational platform "Harkni"**  
 
 ---
 
